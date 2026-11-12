@@ -1,0 +1,1 @@
+Render CH17-P028 using page.json and supplied Assets/. Full-color realistic manga, exact geometry and canonical character references. No lettering, bubbles, panel numbers, folios or English in base artwork. Keep a separate transparent lettering overlay for CSP and exact text TXT. Use deterministic pixel compositing for the approved panel layout.
